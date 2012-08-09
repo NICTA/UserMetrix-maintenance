@@ -1,0 +1,1 @@
+This is a very simple github pages project for the http://usermetrix.com maintenance page. All traffic is redirected here when UserMetrix is undergoing some kind of maintenance.
